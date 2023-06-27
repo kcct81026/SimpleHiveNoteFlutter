@@ -1,0 +1,4 @@
+#Tue Jun 27 20:36:45 MMT 2023
+base.0=/home/dell/FlutterProjects/hive_note_eg/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

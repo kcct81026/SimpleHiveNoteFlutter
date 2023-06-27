@@ -1,0 +1,13 @@
+com.example.hive_note_eg.app-jetified-window-java-1.0.0-beta04-0 /home/dell/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.hive_note_eg.app-core-1.6.0-1 /home/dell/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.hive_note_eg.app-jetified-annotation-experimental-1.1.0-2 /home/dell/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.hive_note_eg.app-jetified-window-1.0.0-beta04-3 /home/dell/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.hive_note_eg.app-debug-4 /home/dell/FlutterProjects/hive_note_eg/android/app/src/debug/res
+com.example.hive_note_eg.app-main-5 /home/dell/FlutterProjects/hive_note_eg/android/app/src/main/res
+com.example.hive_note_eg.app-pngs-6 /home/dell/FlutterProjects/hive_note_eg/build/app/generated/res/pngs/debug
+com.example.hive_note_eg.app-resValues-7 /home/dell/FlutterProjects/hive_note_eg/build/app/generated/res/resValues/debug
+com.example.hive_note_eg.app-rs-8 /home/dell/FlutterProjects/hive_note_eg/build/app/generated/res/rs/debug
+com.example.hive_note_eg.app-mergeDebugResources-9 /home/dell/FlutterProjects/hive_note_eg/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.hive_note_eg.app-mergeDebugResources-10 /home/dell/FlutterProjects/hive_note_eg/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.hive_note_eg.app-merged_res-11 /home/dell/FlutterProjects/hive_note_eg/build/app/intermediates/merged_res/debug
+com.example.hive_note_eg.app-packaged_res-12 /home/dell/FlutterProjects/hive_note_eg/build/path_provider_android/intermediates/packaged_res/debug
